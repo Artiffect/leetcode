@@ -4,3 +4,9 @@
 *.class
 out/
 build/
+target/
+.project
+.classpath
+.settings/
+.zed/
+pom.xml
